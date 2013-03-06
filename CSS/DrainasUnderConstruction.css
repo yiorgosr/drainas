@@ -1,17 +1,14 @@
 .logo {
-
+        align: float;
+        margin: 100px 0px 0px 440px;
  
 	
 }
 
-ul {
-	font-family: Arial, Sans-serif;
-	font-size: 1em;
-
-}
-
 div p {
-	color: orange;
+	text-align: center;
+        color: #ff0000;
 	font-family: Arial, Sans-serif;
-	font-size:2em
+	font-size:1em
+        margin: 80px 0px 0px 440px;
 }
