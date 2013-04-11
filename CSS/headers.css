@@ -1,0 +1,39 @@
+.logo {
+	text-align:center;
+	}
+.menubar {
+	display:inline;
+}
+.bar {
+	height:50px;
+	width: 90%;
+	background-color: #FF0000;
+	
+	}
+.lang {
+	height: 50px;
+	width: 10%;
+	background-color: #8b8a8a;
+	float:right;
+	position: static;	
+	} 
+	
+ul li {
+	display: inline;
+	}
+
+.bar ul li a {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size:1em;
+	padding: 16px 60px 16px 60px;
+	}
+
+.bar ul li a:hover {
+	background-color: #8b8a8a;
+	padding:auto;
+}
+img {
+	
+}
